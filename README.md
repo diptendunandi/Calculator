@@ -3,3 +3,5 @@ A Calculator App with dark mode. Built using HTML, CSS and JavaScript. Feel free
 
 ![screenshot1](https://ibb.co/bbnxCDS)
 ![screenshot2](https://ibb.co/wQ7qPLM)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
